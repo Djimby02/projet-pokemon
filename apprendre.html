@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ma 1ère page HTML !</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/apprendre.js"></script>
+</head>
+<body onload="loadXMLDoc()">
+    <div id="navigation">
+        <ul id="r">
+            <li><a href="../projetweb/index.html">Retour</a></li>
+             
+
+            
+    </div>
+    <br><br>
+    <div id="pageLinks"></div>
+    
+
+    
+   <select id="thematique" class="form-select">
+    <option value="Tout">Tout</option>
+    <option value="Aventure et exploration">Aventure et exploration</option>
+    <option value="Collection et stratégie">Collection et stratégie</option>
+    <option value="Amitié et lien avec les Pokémon">Amitié et lien avec les Pokémon</option>
+    <option value="Légendes et mythes Pokémon">Légendes et mythes Pokémon</option>
+</select>
+
+    
+    <input type="button" onclick="filterData()" value="Filtrer" class="btn-primary"/>
+    <input type="button" onclick="sortData()" value="Sort" class="btn-primary"/>
+    
+    <br><br><br>
+     <br><br>
+ 
+   
+    <table id="data"class="table"></table>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>    

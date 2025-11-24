@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <!-- Thématique : Aventure et exploration (1-13) -->
+    <question>
+        <id>1</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q1.jpg</image>
+        <contenu>Dans quelle région commence l’aventure du tout premier jeu Pokémon ?</contenu>
+        <response1>Johto</response1>
+        <response2>Sinnoh</response2>
+        <response3>Kanto</response3>
+        <response4>Hoenn</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Kanto — Région où débute l’aventure du tout premier jeu Pokémon. Le joueur commence à Bourg Palette, reçoit son premier Pokémon du Professeur Chen, puis parcourt Kanto pour devenir Maître Pokémon.</explication>
+    </question>
+
+    <question>
+        <id>2</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q2.jpg</image>
+        <contenu>Quel objet est essentiel pour capturer des Pokémon lors de ton exploration ?</contenu>
+        <response1>Potion</response1>
+        <response2>Poké Ball</response2>
+        <response3>Repousse</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Poké Ball — Objet utilisé pour capturer des Pokémon sauvages. Le dresseur la lance sur un Pokémon pendant un combat pour tenter de l’enfermer à l’intérieur. C’est l’outil fondamental de tout dresseur pour agrandir son équipe.</explication>
+    </question>
+
+    <question>
+        <id>3</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q3.jpg</image>
+        <contenu>Quelle route ou lieu est souvent le premier terrain d’exploration pour un jeune dresseur ?</contenu>
+        <response1>Route 1</response1>
+        <response2>Route 10</response2>
+        <response3>Route 100</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Route 1 — Première route que le joueur emprunte après avoir quitté Bourg Palette. C’est le premier lieu d’exploration où il peut rencontrer et capturer ses premiers Pokémon sauvages.</explication>
+    </question>
+
+    <question>
+        <id>4</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q4.jpg</image>
+        <contenu>Quelle ville est célèbre pour sa grotte où vivent des Pokémon de type Roche ?</contenu>
+        <response1>Céladopole</response1>
+        <response2>Argenta</response2>
+        <response3>Safrania</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Argenta — Ville célèbre pour sa Grotte, où vivent de nombreux Pokémon de type Roche. C’est aussi là que se trouve la première arène de la région de Kanto, dirigée par Pierre, le champion spécialiste du type Roche.</explication>
+    </question>
+
+    <question>
+        <id>5</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q5.jpg</image>
+        <contenu>Quel Pokémon légendaire est connu pour avoir créé les mers, symbole d’exploration océanique ?</contenu>
+        <response1>Groudon</response1>
+        <response2>Kyogre</response2>
+        <response3>Rayquaza</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Kyogre — Pokémon légendaire connu pour avoir créé les mers et les océans. Symbole de l’exploration marine, il représente la puissance de l’eau et apparaît dans la région de Hoenn.</explication>
+    </question>
+
+    <question>
+        <id>6</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q6.jpg</image>
+        <contenu>Quel objet permet d’éclairer les grottes sombres pendant une exploration ?</contenu>
+        <response1>Pokédex</response1>
+        <response2>CS Éclate-Roc</response2>
+        <response3>CS Flash</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>CS Flash — Objet ou capacité qui permet d’éclairer les grottes sombres pendant l’exploration. Elle aide le dresseur à mieux se repérer dans les zones obscures.</explication>
+    </question>
+
+    <question>
+        <id>7</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q7.jpg</image>
+        <contenu>Quelle région est inspirée de la France, célèbre pour ses paysages à explorer ?</contenu>
+        <response1>Sinnoh</response1>
+        <response2>Kalos</response2>
+        <response3>Galar</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Kalos — Région inspirée de la France, célèbre pour ses paysages variés, son architecture élégante et ses nombreux lieux d’exploration, dont Illumis, semblable à Paris.</explication>
+    </question>
+
+    <question>
+        <id>8</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q8.jpg</image>
+        <contenu>Quel moyen de transport te permet de voyager sur l’eau ?</contenu>
+        <response1>Surf</response1>
+        <response2>Vol</response2>
+        <response3>Escalade</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Surf — Capacité qui permet à un Pokémon de voyager sur l’eau et d’explorer de nouvelles zones.</explication>
+    </question>
+
+    <question>
+        <id>9</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q9.jpg</image>
+        <contenu>Dans Pokémon, quelle est souvent la motivation principale du héros pour partir à l’aventure ?</contenu>
+        <response1>Devenir riche</response1>
+        <response2>Capturer tous les Pokémon</response2>
+        <response3>Battre son rival uniquement</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Devenir Maître Pokémon — Motivation principale du héros, qui consiste à capturer, entraîner et combattre des Pokémon pour affronter les arènes et compléter le Pokédex.</explication>
+    </question>
+
+    <question>
+        <id>10</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q10.jpg</image>
+        <contenu>Quel type de Pokémon rencontre-t-on le plus souvent dans les forêts ?</contenu>
+        <response1>Roche</response1>
+        <response2>Insecte</response2>
+        <response3>Feu</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Les Pokémon de type Insecte sont les plus fréquents dans les forêts et constituent les premiers adversaires pour les jeunes dresseurs.</explication>
+    </question>
+
+    <question>
+        <id>11</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q11.jpg</image>
+        <contenu>Quel Pokémon légendaire peut être rencontré dans la région de Sinnoh au Mont Couronné ?</contenu>
+        <response1>Dialga</response1>
+        <response2>Palkia</response2>
+        <response3>Giratina</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>3</point>
+        <lot>2</lot>
+        <explication>Dialga, Pokémon légendaire de type Acier/Dragon, est lié au temps et peut être trouvé au Mont Couronné dans Sinnoh.</explication>
+    </question>
+
+    <question>
+        <id>12</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q12.jpg</image>
+        <contenu>Quel objet permet de soigner tous les Pokémon du groupe en exploration ?</contenu>
+        <response1>Super Potion</response1>
+        <response2>Centre Pokémon</response2>
+        <response3>Potions et Baies</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Les potions et baies permettent de restaurer les PV de tous les Pokémon pendant l’exploration.</explication>
+    </question>
+
+    <question>
+        <id>13</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q13.jpg</image>
+        <contenu>Quel type de Pokémon est le plus courant dans les zones montagneuses ?</contenu>
+        <response1>Roche</response1>
+        <response2>Feu</response2>
+        <response3>Plante</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Les Pokémon de type Roche sont les plus fréquents dans les montagnes, adaptés à cet environnement.</explication>
+    </question>
+
+    <!-- Thématique : Collection et stratégie (14-26) -->
+        <!-- Thématique : Collection et stratégie (14-26) -->
+    <question>
+        <id>14</id>
+        <thematique>Collection et stratégie</thematique>
+        <image>q14.jpg</image>
+        <contenu>Quel est l’objectif principal du Pokédex ?</contenu>
+        <response1>Collectionner des badges</response1>
+        <response2>Soigner les Pokémon</response2>
+        <response3>Enregistrer tous les Pokémon rencontrés</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Le Pokédex permet d’enregistrer tous les Pokémon rencontrés et d’en apprendre davantage sur eux, transformant la collecte en une véritable quête de connaissance.</explication>
+    </question>
+
+    <question>
+        <id>15</id>
+        <thematique>Collection et stratégie</thematique>
+        <image>q15.jpg</image>
+        <contenu>Quel type de Pokémon est généralement efficace contre les Pokémon de type Eau ?</contenu>
+        <response1>Plante</response1>
+        <response2>Feu</response2>
+        <response3>Roche</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Les Pokémon de type Plante sont efficaces contre l’eau, car leurs attaques exploitent la faiblesse des Pokémon de type Eau.</explication>
+    </question>
+
+    <question>
+        <id>16</id>
+        <thematique>Collection et stratégie</thematique>
+        <image>q16.jpg</image>
+        <contenu>Quel objet permet à un Pokémon de tenir une baie pour récupérer des PV pendant un combat ?</contenu>
+        <response1>Baie Oran</response1>
+        <response2>Baie Fraive</response2>
+        <response3>Baie Prine</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>La Baie Oran permet à un Pokémon de récupérer automatiquement des PV lorsqu’ils sont bas pendant un combat.</explication>
+    </question>
+
+    <question>
+        <id>17</id>
+        <thematique>Collection et stratégie</thematique>
+        <image>q17.jpg</image>
+        <contenu>Quel est l’effet principal de l’attaque “Vive-Attaque” ?</contenu>
+        <response1>Diminue la défense</response1>
+        <response2>Attaque en premier</response2>
+        <response3>Soigne le lanceur</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Vive-Attaque permet de frapper en premier, grâce à sa priorité élevée, indépendamment de la vitesse du Pokémon.</explication>
+    </question>
+
+    <question>
+        <id>18</id>
+        <thematique>Collection et stratégie</thematique>
+        <image>q18.jpg</image>
+        <contenu>Quel Pokémon peut évoluer en plusieurs formes selon l’environnement ?</contenu>
+        <response1>Évoli</response1>
+        <response2>Pikachu</response2>
+        <response3>Salamèche</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Évoli peut évoluer en différentes formes selon la pierre évolutive, l’heure, l’amitié ou l’environnement.</explication>
+    </question>
+
+    <question>
+        <id>19</id>
+        <thematique>Collection et stratégie</thematique>
+        <image>q19.jpg</image>
+        <contenu>Quel type est résistant au type Électrik ?</contenu>
+        <response1>Sol</response1>
+        <response2>Vol</response2>
+        <response3>Glace</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Le type Sol est immunisé contre les attaques électriques, ce qui le rend résistant à ce type.</explication>
+    </question>
+
+    <question>
+        <id>20</id>
+        <thematique>Collection et stratégie</thematique>
+        <image>q20.jpg</image>
+        <contenu>Combien de Pokémon peut-on avoir dans son équipe en même temps ?</contenu>
+        <response1>3</response1>
+        <response2>6</response2>
+        <response3>10</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Une équipe est limitée à 6 Pokémon pour équilibrer les combats et permettre une stratégie efficace.</explication>
+    </question>
+
+    <question>
+        <id>21</id>
+        <thematique>Collection et stratégie</thematique>
+        <image>q21.jpg</image>
+        <contenu>Quel statut peut empêcher un Pokémon d’attaquer pendant plusieurs tours ?</contenu>
+        <response1>Paralysie</response1>
+        <response2>Sommeil</response2>
+        <response3>Confusion</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Le sommeil empêche un Pokémon d’attaquer pendant plusieurs tours jusqu’à ce qu’il se réveille.</explication>
+    </question>
+
+    <question>
+        <id>22</id>
+        <thematique>Collection et stratégie</thematique>
+        <image>q22.jpg</image>
+        <contenu>Quel objet permet d’augmenter les chances de trouver des Pokémon sauvages ?</contenu>
+        <response1>Poké Radar</response1>
+        <response2>Super Bonbon</response2>
+        <response3>Capsule Z</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Le Poké Radar repère les herbes où des Pokémon apparaissent, augmentant les chances de rencontrer des Pokémon rares.</explication>
+    </question>
+
+    <question>
+        <id>23</id>
+        <thematique>Collection et stratégie</thematique>
+        <image>q23.jpg</image>
+        <contenu>Quel est l’avantage d’avoir une équipe avec des types variés ?</contenu>
+        <response1>Plus de rapidité</response1>
+        <response2>Plus de chance de gagner contre tous types</response2>
+        <response3>Plus de PV</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Une équipe diversifiée permet de mieux résister aux attaques adverses et d’infliger des dégâts super efficaces.</explication>
+    </question>
+
+    <question>
+        <id>24</id>
+        <thematique>Amitié et lien avec les Pokémon</thematique>
+        <image>q24.jpg</image>
+        <contenu>Qu’est-ce qui renforce le lien entre un dresseur et son Pokémon ?</contenu>
+        <response1>L’ignorer pour le rendre indépendant</response1>
+        <response2>Passer du temps avec lui et le comprendre</response2>
+        <response3>Le forcer à combattre sans arrêt</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Plus un Pokémon combat, gagne de l’expérience et est soigné par son dresseur, plus son affection et sa loyauté augmentent.</explication>
+    </question>
+
+    <question>
+        <id>25</id>
+        <thematique>Amitié et lien avec les Pokémon</thematique>
+        <image>q25.jpg</image>
+        <contenu>Quel Pokémon est connu pour être très fidèle à son dresseur ?</contenu>
+        <response1>Miaouss</response1>
+        <response2>Smogo</response2>
+        <response3>Pikachu</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Pikachu illustre parfaitement la loyauté et l’attachement entre un Pokémon et son dresseur.</explication>
+    </question>
+        <!-- Thématique : Amitié et lien avec les Pokémon (26-30) -->
+    <question>
+        <id>26</id>
+        <thematique>Amitié et lien avec les Pokémon</thematique>
+        <image>q26.jpg</image>
+        <contenu>Quel Pokémon évolue quand il a beaucoup d’amitié avec son dresseur ?</contenu>
+        <response1>Togepi</response1>
+        <response2>Tiplouf</response2>
+        <response3>Roucool</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Togepi évolue en Togetic lorsqu’il a développé beaucoup de confiance et d’amitié avec son dresseur.</explication>
+    </question>
+
+    <question>
+        <id>27</id>
+        <thematique>Amitié et lien avec les Pokémon</thematique>
+        <image>q27.jpg</image>
+        <contenu>Comment Évoli évolue-t-il en Mentali ?</contenu>
+        <response1>Avec une Pierre Eau</response1>
+        <response2>En échange</response2>
+        <response3>Avec une amitié élevée le jour</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>3</point>
+        <lot>1</lot>
+        <explication>Mentali évolue lorsqu’Évoli a une amitié élevée avec son dresseur et que l’évolution se fait pendant la journée.</explication>
+    </question>
+
+    <question>
+        <id>28</id>
+        <thematique>Amitié et lien avec les Pokémon</thematique>
+        <image>q28.jpg</image>
+        <contenu>Quel objet augmente l’amitié d’un Pokémon ?</contenu>
+        <response1>Pierre Feu</response1>
+        <response2>Grelot Zen</response2>
+        <response3>Vive Griffe</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Le Grelot Zen, lorsqu’il est tenu par un Pokémon, augmente plus rapidement son niveau d’amitié avec le dresseur.</explication>
+    </question>
+
+    <question>
+        <id>29</id>
+        <thematique>Amitié et lien avec les Pokémon</thematique>
+        <image>q29.jpg</image>
+        <contenu>Que faut-il éviter pour garder un bon lien avec son Pokémon ?</contenu>
+        <response1>Le soigner au Centre Pokémon</response1>
+        <response2>Le faire combattre</response2>
+        <response3>Le laisser K.O sans le soigner</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Pour garder un bon lien, il ne faut pas laisser un Pokémon K.O sans le soigner, car cela diminue son affection et sa loyauté.</explication>
+    </question>
+
+    <question>
+        <id>30</id>
+        <thematique>Amitié et lien avec les Pokémon</thematique>
+        <image>q30.jpg</image>
+        <contenu>Quel est le meilleur moyen de créer un lien fort avec son Pokémon ?</contenu>
+        <response1>Utiliser des ordres stricts</response1>
+        <response2>Remplacer souvent son équipe</response2>
+        <response3>Partager des aventures ensemble</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Combattre, explorer et prendre soin d’un Pokémon développe sa confiance, son affection et sa loyauté envers le dresseur.</explication>
+    </question>
+
+    <!-- Thématique : Légendes et mythes Pokémon (31-50) -->
+    <question>
+        <id>31</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q31.jpg</image>
+        <contenu>Quel Pokémon est considéré comme le créateur du monde Pokémon ?</contenu>
+        <response1>Arceus</response1>
+        <response2>Mew</response2>
+        <response3>Dialga</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>4</point>
+        <lot>1</lot>
+        <explication>Arceus est considéré comme le Pokémon qui a créé l’univers et tous les autres Pokémon selon la mythologie Pokémon.</explication>
+    </question>
+
+    <question>
+        <id>32</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q32.jpg</image>
+        <contenu>Quel trio légendaire contrôle l’espace, le temps et la dimension alternative ?</contenu>
+        <response1>Regi</response1>
+        <response2>Dialga, Palkia, Giratina</response2>
+        <response3>Articuno, Zapdos, Moltres</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>4</point>
+        <lot>1</lot>
+        <explication>Dialga contrôle le temps, Palkia l’espace et Giratina l’Antimonde, formant un trio central dans les mythes de Sinnoh.</explication>
+    </question>
+
+    <question>
+        <id>33</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q33.jpg</image>
+        <contenu>Quel Pokémon légendaire est connu pour sa capacité à ressusciter les océans ?</contenu>
+        <response1>Groudon</response1>
+        <response2>Kyogre</response2>
+        <response3>Rayquaza</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>3</point>
+        <lot>1</lot>
+        <explication>Kyogre est le maître des océans et peut provoquer d’énormes pluies et tempêtes pour contrôler les mers.</explication>
+    </question>
+
+    <question>
+        <id>34</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q34.jpg</image>
+        <contenu>Quel Pokémon légendaire représente la puissance du ciel et intervient pour maintenir l’équilibre ?</contenu>
+        <response1>Groudon</response1>
+        <response2>Rayquaza</response2>
+        <response3>Kyogre</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>3</point>
+        <lot>1</lot>
+        <explication>Rayquaza vit dans la stratosphère et intervient pour calmer les conflits entre Kyogre et Groudon, représentant l’équilibre entre le ciel et la terre.</explication>
+    </question>
+
+    <question>
+        <id>35</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q35.jpg</image>
+        <contenu>Quel Pokémon légendaire est considéré comme le dernier ancêtre de tous les Pokémon ?</contenu>
+        <response1>Mew</response1>
+        <response2>Arceus</response2>
+        <response3>Deoxys</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>4</point>
+        <lot>1</lot>
+        <explication>Mew contient l’ADN de tous les Pokémon et est considéré comme l’ancêtre originel.</explication>
+    </question>
+
+    <question>
+        <id>36</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q36.jpg</image>
+        <contenu>Quel Pokémon légendaire représente l’électricité et l’éclair ?</contenu>
+        <response1>Zekrom</response1>
+        <response2>Zapdos</response2>
+        <response3>Raikou</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>3</point>
+        <lot>1</lot>
+        <explication>Raikou incarne la foudre et la vitesse dans les mythes de Johto.</explication>
+    </question>
+
+    <question>
+        <id>37</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q37.jpg</image>
+        <contenu>Quel trio légendaire est connu sous le nom de “Oiseaux Légendaires” ?</contenu>
+        <response1>Articuno, Zapdos, Moltres</response1>
+        <response2>Regi</response2>
+        <response3>Kyogre, Groudon, Rayquaza</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <lot>1</lot>
+        <explication>Articuno, Zapdos et Moltres sont les oiseaux légendaires représentant respectivement le froid, l’électricité et le feu.</explication>
+    </question>
+
+    <question>
+        <id>38</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q38.jpg</image>
+        <contenu>Quel Pokémon légendaire est associé au temps dans la mythologie Pokémon ?</contenu>
+        <response1>Dialga</response1>
+        <response2>Palkia</response2>
+        <response3>Giratina</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>3</point>
+        <lot>1</lot>
+        <explication>Dialga contrôle le temps et est central dans le lore de Sinnoh.</explication>
+    </question>
+
+    <question>
+        <id>39</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q39.jpg</image>
+        <contenu>Quel Pokémon légendaire est considéré comme le gardien des dimensions alternatives ?</contenu>
+        <response1>Giratina</response1>
+        <response2>Regice</response2>
+        <response3>Mewtwo</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>4</point>
+        <lot>1</lot>
+        <explication>Giratina vit dans l’Antimonde, un monde parallèle, et contrôle l’équilibre entre dimensions.</explication>
+    </question>
+
+    <question>
+        <id>40</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q40.jpg</image>
+        <contenu>Quel Pokémon légendaire est connu pour changer de forme selon la météo ?</contenu>
+        <response1>Groudon</response1>
+        <response2>Kyogre</response2>
+        <response3>Castform</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>3</point>
+        <lot>2</lot>
+        <explication>Castform change de forme et de type selon la météo, représentant les phénomènes naturels dans le monde Pokémon.</explication>
+    </question>
+
+    <question>
+        <id>41</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q41.jpg</image>
+        <contenu>Quel lieu légendaire est souvent considéré comme le repaire des Pokémon rares ?</contenu>
+        <response1>Route 1</response1>
+        <response2>Tour Céleste</response2>
+        <response3>Grotte Taupiqueur</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>3</point>
+        <lot>2</lot>
+        <explication>La Tour Céleste est célèbre pour abriter des Pokémon rares et légendaires dans Kanto.</explication>
+    </question>
+
+    <question>
+        <id>42</id>
+        <thematique>Aventure et exploration</thematique>
+        <image>q42.jpg</image>
+        <contenu>Quel objet permet de naviguer sur l’eau dans Pokémon ?</contenu>
+        <response1>Surf</response1>
+        <response2>Vol</response2>
+        <response3>Escalade</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Surf permet à un Pokémon de transporter son dresseur sur l’eau pour explorer de nouvelles zones.</explication>
+    </question>
+
+    <question>
+        <id>43</id>
+        <thematique>Collection et stratégie</thematique>
+        <image>q43.jpg</image>
+        <contenu>Quel type est faible contre le type Feu ?</contenu>
+        <response1>Plante</response1>
+        <response2>Roche</response2>
+        <response3>Acier</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>2</point>
+        <lot>2</lot>
+        <explication>Le type Plante est faible face aux attaques de type Feu.</explication>
+    </question>
+
+    <question>
+        <id>44</id>
+        <thematique>Collection et stratégie</thematique>
+        <image>q44.jpg</image>
+        <contenu>Quel objet améliore la puissance d’une attaque spécifique ?</contenu>
+        <response1>Baie Oran</response1>
+        <response2>Objet tenue spécifique (ex : Charbon)</response2>
+        <response3>Poké Ball</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <point>3</point>
+        <lot>2</lot>
+        <explication>Certains objets, comme le Charbon pour les attaques de type Feu, augmentent la puissance d’attaques spécifiques.</explication>
+    </question>
+
+    <question>
+        <id>45</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q45.jpg</image>
+        <contenu>Quel Pokémon légendaire a été créé par des scientifiques et est connu pour ses pouvoirs psychiques ?</contenu>
+        <response1>Mewtwo</response1>
+        <response2>Mew</response2>
+        <response3>Deoxys</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>4</point>
+        <lot>2</lot>
+        <explication>Mewtwo est un clone génétiquement modifié de Mew, doté de pouvoirs psychiques exceptionnels.</explication>
+    </question>
+
+    <question>
+        <id>46</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q46.jpg</image>
+        <contenu>Quel Pokémon mythique est capable de changer de forme et de type selon sa mémoire ?</contenu>
+        <response1>Deoxys</response1>
+        <response2>Mew</response2>
+        <response3>Genesect</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>4</point>
+        <lot>2</lot>
+        <explication>Deoxys possède plusieurs formes (Attaque, Défense, Vitesse) influencées par sa mémoire et son environnement.</explication>
+    </question>
+
+    <question>
+        <id>47</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q47.jpg</image>
+        <contenu>Quel Pokémon légendaire représente le vent et peut calmer les conflits entre Groudon et Kyogre ?</contenu>
+        <response1>Rayquaza</response1>
+        <response2>Zapdos</response2>
+        <response3>Lugia</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>3</point>
+        <lot>2</lot>
+        <explication>Rayquaza vit dans la stratosphère et rétablit l’équilibre entre Groudon et Kyogre, représentant le vent et le ciel.</explication>
+    </question>
+
+    <question>
+        <id>48</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q48.jpg</image>
+        <contenu>Quel Pokémon légendaire a été scellé par les dieux dans le lac de Sinnoh ?</contenu>
+        <response1>Cresselia</response1>
+        <response2>Uxie</response2>
+        <response3>Azelf</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <point>4</point>
+        <lot>2</lot>
+        <explication>Azelf est l’un des Pokémon légendaires du trio lacustre, scellé dans le lac pour protéger l’équilibre du monde.</explication>
+    </question>
+
+    <question>
+        <id>49</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q49.jpg</image>
+        <contenu>Quel Pokémon mythique est associé à la nuit et aux rêves ?</contenu>
+        <response1>Cresselia</response1>
+        <response2>Lugia</response2>
+        <response3>Darkrai</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>3</point>
+        <lot>2</lot>
+        <explication>Cresselia symbolise la lune et les rêves apaisants dans la mythologie Pokémon.</explication>
+    </question>
+
+    <question>
+        <id>50</id>
+        <thematique>Légendes et mythes Pokémon</thematique>
+        <image>q50.jpg</image>
+        <contenu>Quel Pokémon légendaire est capable de plonger le monde dans des cauchemars ?</contenu>
+        <response1>Darkrai</response1>
+        <response2>Cresselia</response2>
+        <response3>Lugia</response3>
+        <response4>Je ne sais pas</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <point>4</point>
+        <lot>2</lot>
+        <explication>Darkrai a la capacité d’infliger des cauchemars aux humains et Pokémon, représentant la nuit et les peurs</explication>
+    </question>
